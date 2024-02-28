@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 7382734980</h2>
   
-  <h3> Ofc Location :Infosys Gachibowli, Hyderbad. </h3>
+  <h3> Ofc Location :Infosys Gachibowli, Hyderbad.500003 </h3>
 
 </body>
 </html>
